@@ -16,5 +16,5 @@ That brings this all to the FCWGAN, meaning the Fast Cycle Wasserstein GAN. This
 is something that I'm still not completely satisfied with. Partly because of my styled data. But maybe I'll reuse this project another time.
 
 # Credit
-My friend Elliott Cheng gave me his artwork. Thanks for the artworks!
-Other than that, photos that I just needed for training are from "I'm something of a painter myself" dataset."
+My friend Elliott gave me his artwork. Thanks for the artworks!
+Other than that, photos that I just needed for training are from "I'm something of a painter myself" dataset.
